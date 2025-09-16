@@ -2,7 +2,7 @@
 # 🏠 USA Housing Price Analysis
 
 Notebook ini berisi **eksplorasi data** dan **pemodelan harga rumah** pada dataset USA Housing menggunakan Python.  
-Proyek ini dibuat untuk tujuan **pembelajaran pribadi**.
+Proyek ini dibuat untuk tujuan **praktikum mata kuliah data science**.
 
 ## 📚 Deskripsi Proyek
 
